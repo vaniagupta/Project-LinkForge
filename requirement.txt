@@ -1,1 +1,13 @@
+As a user:
 
+Register with a valid username and password.
+Create and customize personal link collection (linktree).
+Share the linktree on social media or other platforms.
+View analytics on link clicks and overall engagement.
+
+
+As an administrator:
+
+Manage user accounts (add/modify/delete).
+View analytics for each user's linktree (clicks, engagement).
+Monitor and manage the overall platform's performance.
